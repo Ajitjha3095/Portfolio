@@ -2,7 +2,6 @@
 
 A beautiful, responsive portfolio website for Ajit Jha, Senior Data Research Analyst. Built with HTML5, CSS3, and JavaScript. Features a modern design with smooth animations, mobile-first approach, and excellent user experience across all devices.
 
-**Live Demo:** [https://ajitjha3095.github.io/Ajit-jha-Portfolio.github.io/](https://ajitjha3095.github.io/Ajit-jha-Portfolio.github.io/)
 
 ## 🌟 Features
 
